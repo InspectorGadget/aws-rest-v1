@@ -1,4 +1,4 @@
-# aws-rest (Gin Gonic + AWS Go SDK)
+# aws-rest-v1 (Gin Gonic + AWS Go SDK v1)
 
 ## Description
 This is a simple RESTful API built with Gin Gonic and AWS Go SDK.
@@ -14,8 +14,8 @@ This is a simple RESTful API built with Gin Gonic and AWS Go SDK.
 ## Guide
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/InspectorGadget/aws-rest.git
-cd aws-rest
+git clone https://github.com/InspectorGadget/aws-rest-v1.git
+cd aws-rest-v1
 ```
 
 ### 2. Setup the Go environment
